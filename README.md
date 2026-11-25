@@ -1,7 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
-  <img alt="Arqueveon Walker, AI deployment strategist: from pilot to production" src="assets/banner-light.svg" width="100%">
-</picture>
+<img alt="A road from nomadic walkers to a flying car: Arqueveon Walker, AI Deployment Strategist. Continuous improvement beats delayed perfection." src="assets/banner.png" width="100%">
 
 **AI deployment strategist.** I take AI from pilot to production with the people who actually use it.
 
