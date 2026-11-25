@@ -1,4 +1,4 @@
-<img alt="A road from nomadic walkers to a flying car: Arqueveon Walker, AI Deployment Strategist. Continuous improvement beats delayed perfection." src="assets/banner.png" width="100%">
+<img alt="A highway from walkers on foot, through wagon, train and cars, to a flying car: Arqueveon Walker, AI Deployment Strategist. Continuous improvement beats delayed perfection." src="assets/banner.png" width="100%">
 
 **AI deployment strategist.** I take AI from pilot to production with the people who actually use it.
 
