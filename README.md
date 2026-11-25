@@ -27,7 +27,7 @@ At a large utility, that meant:
 
 <img alt="How I work, as a diorama: I discover at a whiteboard with the team, design at a desk with a blueprint, watch AI build, prove it with a checklist and results, then turn a yellow approval key before presenting the finished tool to the people who use it. Network cables connect every step." src="assets/how-i-work.webp" width="100%">
 
-<sub>**Discover** → **Design** → **AI builds** → **Prove** → 🔑 **human approval** → **Deploy & adopt**</sub>
+**Discover** → **Design** → **AI builds** → **Prove** → 🔑 **human approval** → **Deploy & adopt**
 
 
 I design and specify, AI builds, and I review and test. My rules:
