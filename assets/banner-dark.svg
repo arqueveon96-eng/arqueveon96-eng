@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 300" width="1200" height="300" role="img" aria-label="Arqueveon Walker, AI deployment strategist: from pilot to production">
+  <rect width="1200" height="300" fill="#141414"/>
+  <rect x="0" y="0" width="1200" height="6" fill="#ffe600"/>
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif">
+    <text x="56" y="112" fill="#ecebe7" font-size="46" font-weight="700">Arqueveon Walker</text>
+    <text x="56" y="156" fill="#ffe600" font-size="24" font-weight="600">AI Deployment Strategist</text>
+    <text x="56" y="194" fill="#a3a29c" font-size="18">Prompt &amp; context engineering · AI agents · Copilot Studio · Claude</text>
+    <text x="56" y="250" fill="#a3a29c" font-size="15">U.S. Army veteran · Birmingham, AL · open to DC–Baltimore or remote</text>
+  </g>
+  <!-- route: pilot to production -->
+  <g font-family="Segoe UI, Helvetica Neue, Arial, sans-serif" font-size="13" fill="#a3a29c">
+    <path d="M700 205 C 780 205, 790 120, 870 120 S 960 205, 1040 150 L 1130 95" fill="none" stroke="#3a3a37" stroke-width="10" stroke-linecap="round"/>
+    <path d="M700 205 C 780 205, 790 120, 870 120 S 960 205, 1040 150 L 1130 95" fill="none" stroke="#ffe600" stroke-width="3" stroke-dasharray="2 10" stroke-linecap="round"/>
+    <circle cx="700" cy="205" r="11" fill="#141414" stroke="#ecebe7" stroke-width="3"/>
+    <circle cx="870" cy="120" r="9" fill="#141414" stroke="#ecebe7" stroke-width="3"/>
+    <circle cx="1040" cy="150" r="9" fill="#141414" stroke="#ecebe7" stroke-width="3"/>
+    <circle cx="1130" cy="95" r="14" fill="#ffe600"/>
+    <text x="700" y="240" text-anchor="middle">pilot</text>
+    <text x="870" y="98" text-anchor="middle">design</text>
+    <text x="1040" y="182" text-anchor="middle">prove</text>
+    <text x="1130" y="68" text-anchor="middle" fill="#ecebe7" font-weight="700">production</text>
+  </g>
+</svg>

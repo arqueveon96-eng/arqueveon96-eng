@@ -1,8 +1,9 @@
-# Arqueveon Walker
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/banner-dark.svg">
+  <img alt="Arqueveon Walker, AI deployment strategist: from pilot to production" src="assets/banner-light.svg" width="100%">
+</picture>
 
 **AI deployment strategist.** I take AI from pilot to production with the people who actually use it.
-
-U.S. Army veteran (Sergeant, Combat Engineer) · Birmingham, AL · open to DC–Baltimore or remote
 
 ---
 
@@ -26,6 +27,9 @@ At a large utility, that meant:
 | [human-in-the-loop-agents](https://github.com/arqueveon96-eng/human-in-the-loop-agents) | How I run a multi-agent AI platform where agents draft, humans approve, and every agent is generated from an audited charter |
 
 ### How I work with AI
+
+<img alt="How I work: discover, design, AI builds, prove with evals, deploy and adopt, with a human approval gate before production" src="assets/how-i-work.svg" width="100%">
+
 
 I design and specify, AI builds, and I review and test. My rules:
 - **Draft by default.** Nothing outward-facing happens without a human yes.
